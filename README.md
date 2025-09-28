@@ -1,16 +1,16 @@
-## Hi there 👋
+# About
 
-<!--
-**muratbekj/muratbekj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Murat, a full-stack developer who enjoys building web apps, coding tools, and experimenting with AI. I like learning by building projects and solving problems.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages**: Python, Java, Go, JavaScript, HTML, CSS, SQL
+* **Frameworks & Libraries**: Django, React, Tailwind CSS, LangChain
+* **Databases**: PostgreSQL, SQLite
+* **Other Tools**: Git & GitHub, Docker, Redis
+
+### 🚀 Interests
+
+* Full-stack web development
+* Backend engineering
+* AI/LLM projects (RAG, coding agents)
