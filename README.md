@@ -1,4 +1,4 @@
-# About
+## Hello there 👋
 
 I'm Murat, a full-stack developer who enjoys building web apps, coding tools, and experimenting with AI. I like learning by building projects and solving problems.
 
@@ -7,7 +7,7 @@ I'm Murat, a full-stack developer who enjoys building web apps, coding tools, an
 * **Languages**: Python, Java, Go, JavaScript, HTML, CSS, SQL
 * **Frameworks & Libraries**: Django, React, Tailwind CSS, LangChain
 * **Databases**: PostgreSQL, SQLite
-* **Other Tools**: Git & GitHub, Docker, Redis
+* **Other Tools**: Git & GitHub, Docker, Redis, Insomnia
 
 ### 🚀 Interests
 
