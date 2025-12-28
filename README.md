@@ -1,16 +1,11 @@
-## Hello there 👋
+### Hello !
 
-I'm Murat, a full-stack developer who enjoys building web apps, coding tools, and experimenting with AI. I like learning by building projects and solving problems.
+I’m Murat, a software engineering student in the United States who enjoys building practical software, especially backend systems.
 
-### 🛠️ Skills
+I primarily work with Django and PostgreSQL, and I’m currently building a full-stack application using Django REST Framework, PostgreSQL, and React Native. I enjoy designing APIs, working with databases, and turning ideas into reliable systems. I am developing AI systems as well, learning from Chip Huyen and her [AI Engineering by Chip Huyen](https://www.amazon.com/dp/B0DPLNK9GN) to build such systems.
 
-* **Languages**: Python, Java, Go, JavaScript, HTML, CSS, SQL
-* **Frameworks & Libraries**: Django, React, Tailwind CSS, LangChain
-* **Databases**: PostgreSQL, SQLite
-* **Other Tools**: Git & GitHub, Docker, Redis, Insomnia
-
-### 🚀 Interests
-
-* Full-stack web development
-* Backend engineering
-* AI/LLM projects (RAG, coding agents)
+**Interests**
+- Backend engineering
+- API design
+- Databases and data modeling
+- Building real-world applications
